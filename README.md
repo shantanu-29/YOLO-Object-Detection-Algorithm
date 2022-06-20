@@ -1,1 +1,1 @@
-# YOLO---Object-Detection-Algorithm
+# YOLO-Object-Detection-Algorithm
